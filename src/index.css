@@ -1,0 +1,34 @@
+#upload{
+    padding: 100px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    border-width: 30px;
+    border-style: double;
+    font-size: larger;
+    background-color: rgb(21, 36, 50);
+
+}
+#main{
+    border-style: solid;
+    padding: 75px;
+    border-radius: 20%;
+    border-color: rgb(84, 57, 87);
+    background-color: rgb(235, 227, 227);
+}
+#button{
+    font-size: larger;
+    border-style: inset;
+    border-radius:50%;
+    padding: 10px;
+    background-color: rgb(228, 229, 219);
+    border-color: rgb(84, 57, 87);
+}
+#myFile{
+    background-color: rgba(34, 69, 0, 0.491);
+    font-size: larger;
+}
+#uploadFile{
+    font-size: x-large;
+    color: black;
+    background-color: greenyellow;
+}
